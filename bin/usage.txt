@@ -1,0 +1,19 @@
+google-translate-chain
+
+Usage:
+  gtc "Hello world" "EN, FR, JP, AR, EN"
+  gtc "Hello world" -l "EN, FR, JP, AR, EN"
+  gtc "Hello world" -l <file>
+  gtc --help
+  gtc --version
+  gtc --supported-languages
+
+Options:
+  -h, --help                    Show this screen.
+  -v, --version                 Print the current version.
+  -l, --languages=<array|file>  A comma-separated list of langCode.
+
+  --supported-languages         Print all supported languages.
+
+Aliases:
+  gtc, gt-chain, gtranslate-chain, google-translate-chain
