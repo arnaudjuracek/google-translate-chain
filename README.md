@@ -89,7 +89,7 @@ console.log(googleTranslate.languages.getCode('foo'))     // -> false
 
 ## Credits
 
-This module was created for the bot **`#confus_cius`** by **[Hakim Achbé](https://www.instagram.com/hakim_achbe/)**, during the workshop _"Machine Jacking"_ hosted by [Chevalvert](http://chevalvert.fr) at [Stereolux](https://www.stereolux.org/agenda/workshop-machine-jacking).
+This module was created for the bot [**`#confus_cius`**](https://www.instagram.com/confus_cius/) by **[Hakim Achbé](https://www.instagram.com/hakim_achbe/)**, during the workshop _"Machine Jacking"_ hosted by [Chevalvert](http://chevalvert.fr) at [Stereolux](https://www.stereolux.org/agenda/workshop-machine-jacking).
 
 <br>
 
